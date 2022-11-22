@@ -1,8 +1,6 @@
-Building a VPN Between Google Cloud and AWS with Terraform
+Building a VPN Connection Between Google Cloud and AWS with Terraform
 ==========================================================
 
-
-Google Cloud self-paced labs logo
 ![image](https://user-images.githubusercontent.com/104800728/203363728-fe49d047-c0a8-4a80-bd8e-204af0c2c1b1.png)
 
 Overview
